@@ -1,11 +1,11 @@
 # Fish Tank Buttons
 
-  - Primary
-  
-    ![Fish Tank Primary Button]("../../assets/ft-button-primary.png" | width=20)
 
-    <img src="../../assets/ft-button-primary.png" width="20%" alt="">
-  - Secondary
+|Primary|<img src="../../assets/ft-button-primary.png" width="20%" alt="">|
+|Secondary|<img src="../../assets/ft-button-secondary.png" width="20%" alt="">|
+|Destructive|<img src="../../assets/ft-button-distructive.png" width="20%" alt="">|
+|Gradient|<img src="../../assets/ft-button-gradient.png" width="20%" alt="">|
+  - 
 
     <img src="../../assets/ft-button-secondary.png" width="20%" alt="Fish Tank Secondary Button">
   - Destructive
