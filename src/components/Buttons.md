@@ -1,13 +1,13 @@
 # Fish Tank Buttons
 
-
+|Name|Type|
+|---|---|
 |Primary|<img src="../../assets/ft-button-primary.png" width="20%" alt="">|
 |Secondary|<img src="../../assets/ft-button-secondary.png" width="20%" alt="">|
 |Destructive|<img src="../../assets/ft-button-distructive.png" width="20%" alt="">|
 |Gradient|<img src="../../assets/ft-button-gradient.png" width="20%" alt="">|
-  - 
 
-    <img src="../../assets/ft-button-secondary.png" width="20%" alt="Fish Tank Secondary Button">
+
   - Destructive
 
     <img src="../../assets/ft-button-destructive.png" width="20%" alt="Fish Tank Destructive Button">
