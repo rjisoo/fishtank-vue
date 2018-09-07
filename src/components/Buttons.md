@@ -1,8 +1,7 @@
 # Fish Tank Buttons
 
   - Primary
-    ![]()
-    [![Fish Tank Primary Button](../../assets/ft-button-primary.png| width=20)](#)
+    ![Fish Tank Primary Button](../../assets/ft-button-primary.png| width=20)
     <img src="../../assets/ft-button-primary.png" width="20%" alt="">
   - Secondary
 
