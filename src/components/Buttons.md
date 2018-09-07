@@ -2,10 +2,10 @@
 
 |Name|Type|
 |---|---|
-|Primary|<img src="../../assets/ft-button-primary.png" width="20%" alt="">|
-|Secondary|<img src="../../assets/ft-button-secondary.png" width="20%" alt="">|
-|Destructive|<img src="../../assets/ft-button-distructive.png" width="20%" alt="">|
-|Gradient|<img src="../../assets/ft-button-gradient.png" width="20%" alt="">|
+|Primary|<img src="../../assets/ft-button-primary.png" alt="">|
+|Secondary|<img src="../../assets/ft-button-secondary.png" alt="">|
+|Destructive|<img src="../../assets/ft-button-distructive.png" alt="">|
+|Gradient|<img src="../../assets/ft-button-gradient.png" alt="">|
 
 
   - Destructive
