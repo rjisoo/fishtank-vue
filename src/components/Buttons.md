@@ -1,8 +1,9 @@
 # Fish Tank Buttons
 
   - Primary
+    ![Fish Tank Primary Button](../../assets/ft-button-primary.png)
 
-    <img src="../../assets/ft-button-primary.png" width="20%" alt="Fish Tank Primary Button">
+    <img src="../../assets/ft-button-primary.png" width="20%" alt="">
   - Secondary
 
     <img src="../../assets/ft-button-secondary.png" width="20%" alt="Fish Tank Secondary Button">
